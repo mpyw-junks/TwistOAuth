@@ -146,21 +146,9 @@ Or watch actual response. The following tool is very very useful.
 
 ### Aren't there any nice authentication tools for obtaining tokens?
 
-Try these tools.  
+Try the following commandline utility.
 
-#### Commandline tool (Recommended)
-
-- **[mpyw/twhelp-go](https://github.com/mpyw/twhelp-go)** **(Cross-compiled binaries)**
-- [mpyw/twhelp](https://github.com/mpyw/twhelp) (\*nix or MSYS2/Cygwin required)
-
-Global install is recommended.
-
-#### Web tool hosted on Heroku (Deprecated)
-
-- [TwistHelper](https://twist-helper.herokuapp.com/)
-
-I absolutely promise you that <ins>I never record your credentials</ins>.  
-But please never use if you cannot trust me even a little.
+- **[mpyw/twhelp](https://github.com/mpyw/twhelp)** **(Cross-compiled binaries)**
 
 ### How do I use OAuth 2.0 authentication flow?
 
