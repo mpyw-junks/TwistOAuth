@@ -60,13 +60,13 @@ Modify `require` directive in `composer.json`.
 If you choose this, replace all
 
 ```php
-require 'TwistOAuth.phar';
+require __DIR__ . '/TwistOAuth.phar';
 ```
 
 into
 
 ```php
-require 'vendor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 ```
 
 in examples.
